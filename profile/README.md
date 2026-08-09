@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hitlhub-wordmark.png" alt="HITLHub" width="640" />
+  <img src="assets/hitlhub-wordmark.png" alt="HITLHub" width="360" />
 </p>
 
 <p align="center">
